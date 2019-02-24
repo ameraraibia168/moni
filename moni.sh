@@ -31,6 +31,17 @@ echo -e " $blue ▇▇▇▇◣▇◢▇▇▇▇"
 echo -e "$green"
 
 figlet -f big " Ahla bik ^_^ "
+
+
+
+#echo -e "$green"
+echo -e "$cyan"
+echo -e "|---{$yellow my ip$cyan }---| "
+       curl ifconfig.me
+echo -e "$blue"
+ifconfig wlan0 | grep -o 192..........
+#echo -e "$green "
+
 echo -e "***###akhar isdar###*** "
 echo -e "### 3nd ta7dith aladat soufa akhbirkom ###"
 echo -e ""
