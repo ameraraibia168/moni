@@ -33,7 +33,7 @@ echo -e " $blue ▇▇▇▇◣▇◢▇▇▇▇ $green ╱╱╱╱┃┈▕�
 #echo -e "$green"
 echo -e "$cyan"
 echo -e "|---{$yellow my ip$cyan }---| "
-       curl ifconfig.me
+       
 echo -e "$blue"
 
 ifconfig wlan0 | grep -o 192..........
