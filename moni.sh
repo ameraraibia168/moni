@@ -50,7 +50,7 @@ echo -e "$green  ### mohamad rasul allah ###"
 echo -e "$red $===========================================||'"
 
 echo -e""
-echo -e "$green طقف 90 مقرلا بتكا ةادالا ثيدحت مت"
+echo -e "$green طقف  99 مقرلا بتكا ةادالا ثيدحت مت"
 echo -e "$green  ايئاقلت ثدحت فوسو"
 echo -e "$green 2.3.1 ىلا 2.0.1 مقر رادصالا نم"
 echo -e""
