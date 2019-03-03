@@ -48,3 +48,7 @@ echo -e "$green  ### مكربخا فوس ةادالا تثدح اذا ###"
 echo -e "$blue   ***### Latest version ###***"
 echo -e "$green  ### When updating the tool will tell you ###"
 echo -e "$red $===========================================||'"
+
+
+echo -e"$red طقف 90 مقرلا بتكا ةادالا ثيدحت مت"
+echo -e"$red  ايئاقلت ثدحت فوسو"
