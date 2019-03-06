@@ -12,6 +12,8 @@ y='\033[1;33m'
 n=install
 cd
 
+rm -rf payload7
+rm -rf payload8
 cd $HOME/payload6/.tool
 
 echo -e "$red "
