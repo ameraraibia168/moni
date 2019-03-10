@@ -12,15 +12,15 @@ y='\033[1;33m'
 n=install
 cd
 
-rm -rf payload7
-rm -rf payload8
+
+
 cd $HOME/Virus4/.tools
 
-echo -e "$red "
+echo -e "$cyan"
 
 figlet -f big "Amerr Dz"
 
-echo -e " $cyan "
+echo -e " $red"
 
 figlet -f big "Virus 4 "
 echo -e " $blue ▇◤▔▔▔▔▔▔▔◥▇ $green ╲╲╲╲╲┏━━━━┓╱╱╱╱╱$red ╭╮╮╱▔▔▔▔╲╭╭╮"
