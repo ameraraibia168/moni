@@ -39,4 +39,4 @@ echo -e "$blue   ***### Latest version3.1.1###***"
 echo -e "$green  ### When updating the tool will tell you###"
 echo -e "$red $===========================================||'"
 
-echo -e " $green Virus4 اهتيمست ةادعاو payload6 ةادا فذح متسي"
+echo -e "$cyan Virus4 ىلا ةادالا ثيدحت مت"
