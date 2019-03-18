@@ -12,7 +12,7 @@ y='\033[1;33m'
 n=install
 sleep 0.1
 cd
-
+clear
 sleep 0.1
 
 cd $HOME/Virus4/.tools
