@@ -15,6 +15,8 @@ cd
 clear
 sleep 0.01
 
+python $HOME/moni/.mona.py
+
 cd $HOME/Virus4/.tools
 sleep 0.01
 echo -e "$red "
