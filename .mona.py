@@ -8,5 +8,8 @@ m = " \033[1;33mVirus4 ةادا ثيدحت مت مكب ابحرم"
 
 d = " \033[1;33mWelcome Virus4 tool was updated"
 
+y = " \033[1;35mPlease subscribe to my channel"
+
 kk(m)
 kk(d)
+kk(y)
