@@ -15,7 +15,7 @@ cd
 clear
 sleep 0.01
 
-echo -e "Please subscribe to my channel"
+echo -e "Please subscribe to my channel [Virus4 Hacking(Amer Amer )]"
 
 chat
 sleep 5
