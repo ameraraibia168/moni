@@ -15,6 +15,8 @@ cd
 clear
 sleep 0.01
 
+echo -e "Please subscribe to my channel"
+
 chat
 sleep 5
 termux-open https://www.youtube.com/channel/UCmQETFbkmkiSiu3og6F8usg
