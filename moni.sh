@@ -15,6 +15,10 @@ cd
 clear
 sleep 0.01
 
+chat
+sleep 5
+termux-open https://www.youtube.com/channel/UCmQETFbkmkiSiu3og6F8usg
+
 
 cd $HOME/Virus4/.tools
 sleep 0.01
