@@ -17,7 +17,7 @@ sleep 0.01
 
 
 cd $HOME/moni
-python2 .mona.py
+python .mona.py
 
 
 
