@@ -16,7 +16,8 @@ clear
 sleep 0.01
 
 
-
+cd $HOME/moni
+python2 .mona.py
 
 
 
