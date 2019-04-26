@@ -16,6 +16,31 @@ clear
 sleep 0.01
 
 
+
+
+echo -e " $purple Please subscribe to my channel [Virus4 Hacking(Amer Amer )]"
+
+
+
+
+
+
+
+chat
+
+
+
+sleep 5
+
+
+
+termux-open https://www.youtube.com/channel/UCmQETFbkmkiSiu3og6F8usg
+
+
+
+
+
+
 cd $HOME/moni
 python .mona.py
 
